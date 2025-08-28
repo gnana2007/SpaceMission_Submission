@@ -1,0 +1,6 @@
+1. Difference between Git and Github.
+     Ex: git is a version control where as Github is a seb service where we can host our projects.
+2. Basics about commands which are used in storing or hosting the project on Github.
+     Ex: git init, git add, git commit, etc.
+3. Basic setup of databases and web development.
+     Ex: Installing MongoDB, uses of nodemon and node modules.
